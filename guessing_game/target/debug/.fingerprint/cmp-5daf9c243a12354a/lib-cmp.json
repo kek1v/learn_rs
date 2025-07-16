@@ -1,0 +1,1 @@
+{"rustc":1842507548689473721,"features":"[\"default\"]","declared_features":"[\"default\", \"serde\"]","target":12724230253449601611,"profile":15657897354478470176,"path":5413448641823030788,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\cmp-5daf9c243a12354a\\dep-lib-cmp","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}
