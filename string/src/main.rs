@@ -1,5 +1,11 @@
 fn main() {
-    let mut s = String::from("Hello ");
-    s.push_str(", world!");
-    println!("{s}");
+    let s1 = String::from("Hello ");
+
+    //let mut s2 = s1; its a move
+
+    let mut s2 = s1.clone();
+
+
+    s2.push_str(", world!");
+    println!("{s2}");
 }
